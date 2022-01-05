@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Dec 24 11:19:24 2021
-
 @author: duxin
 """
 from selenium import webdriver
